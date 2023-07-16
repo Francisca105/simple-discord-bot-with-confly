@@ -1,0 +1,15 @@
+{
+  "name": "confly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "author": "Francisca Vicente de Almeida <franciscaalmeida023@gmail.com> (Francisca.105)",
+  "license": "ISC",
+  "dependencies": {
+    "@confly-dev/confly-js": "^2.1.1",
+    "discord.js": "^14.11.0"
+  }
+}
